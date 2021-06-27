@@ -27,7 +27,7 @@ dependencies {
 
 	// Quality of Life imports
 	// Implementing REI also implements cloth config
-	modImplementation "me.shedaniel:RoughlyEnoughItems-fabric:${project.rei_version}"
+	modImplementation "me.shedaniel:RoughlyEnoughItems:${project.rei_version}"
 	modImplementation "com.terraformersmc:modmenu:${project.modmenu_version}"
 	modRuntime "mcp.mobius.waila:wthit:fabric-${project.wthit_version}"
 }
